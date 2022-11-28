@@ -7,5 +7,4 @@ import '@vuepic/vue-datepicker/dist/main.css'
 const app = createApp(App);
 
 app.component('Datepicker', Datepicker);
-
 app.mount('#app');
